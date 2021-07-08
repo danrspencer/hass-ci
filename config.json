@@ -1,0 +1,11 @@
+{
+    "name": "HASS CI",
+    "version": "1",
+    "slug": "hass_ci",
+    "description": "Home Assistant Continuous Integration",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+}
